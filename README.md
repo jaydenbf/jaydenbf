@@ -1,16 +1,43 @@
-### Hi there 👋
+### Jayden Fullerton
 
-<!--
-**jaydenbf/jaydenbf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
+Hi, I'm Jayden Fullerton, a Computer Science and Software Engineering student at the University of Washington, also pursuing a minor in Mathematics. I love working with code and math because I find problem solving very fun, and love solving difficult issues regarding to math and programming. I'm currently aspiring to be a software developer, and hope to find an internship while I'm still in college
 
-Here are some ideas to get you started:
+# Skillset
+*Languages that I am fluent in*:
+C++, Java, C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Languages that I have familiarity with using*:
+MATLAB, Python, SQLITE3, 68K Assembly
+
+*Systems that I have extended experience with*:
+Windows 10, Android, iOS
+
+*Systems that I have familiarity with using*:
+Linux, MacOS
+
+*Development Tools*:
+Visual Studio 2019, Eclipse, Unity, PyCharm, Easy68K
+
+*Project Management Tools*:
+Trello, Google Drive, GitHub
+
+*Other Tools*:
+LaTeX, Microsoft Word
+
+# Projects
+
+## Auto-tuner (MATLAB)
+We explored creating a utility in matlab that processes an audio file and corrects the pitch to a desired frequency using MATLAB. This involved using a Short-Term Fourier Transform and other signal processing/computer vision techniques. An in-depth report can be found on the website.
+
+[Website](https://lizzy.wiki/autotuner/), [GitHub](https://github.com/etcadinfinitum/autotuner)
+
+## Monster Defender (Unity with C#)
+Monster Defender is a tower defense strategy game where you have to place towers to defeat all the monsters. The player defends against seven monster waves that will randomly spawn in random time increments. If the player defeats all the monsters, they win the game. The goal of this project was to explore the process of making a game, including designing, prototyping, and demoing our game through the various stages of the software development process.
+
+[Play in-browser with WebGL](https://vshaw18.github.io/MonsterDefenderWebGLFinal/), [GitHub](https://github.com/jaydenbf/CSS385_Game), [Trailer](https://www.youtube.com/watch?v=bebYx1-LdKY)
+
+## Hospital Database (SQLITE3)
+We explored the process of designing a database from scratch, including creating an ER Diagram and Relational Data Model for our database. Our database was designed to hold hospital information, mainly the interactions between rooms, employees (doctors/nurses), patients, and perscriptions. We then implemented our database with SQLITE3 and added sample data. A report can be found at the link below, which includes the SQLITE3 code to initialize and update the database.
+
+[Documentation and Code](https://github.com/jaydenbf/HospitalDatabase/blob/master/HospitalDatabase.pdf) [GitHub](https://github.com/jaydenbf/HospitalDatabase/)
