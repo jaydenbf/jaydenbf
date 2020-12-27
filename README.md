@@ -57,4 +57,4 @@ Please feel free to reach out with any questions, or if you'd like to collaborat
 [LinkedIn](https://www.linkedin.com/in/jbfullerton/)\
 [Email: jbfullerton32@gmail.com](mailto:jbfullerton32@gmail.com)\
 [GitHub](https://github.com/jaydenbf/)\
-Discord: Jay#9622\
+Discord: Jay#9622
