@@ -1,7 +1,7 @@
 # Jayden Fullerton
 
 ## About Me
-Hi, I'm Jayden Fullerton, a Computer Science and Software Engineering student at the University of Washington, also pursuing a minor in Mathematics. I love working with code and math because I find problem solving very fun, and love solving difficult issues regarding to math and programming. I'm currently aspiring to be a software developer, and hope to find an internship while I'm still in college
+Hi, I'm Jayden Fullerton, a Computer Science and Software Engineering student at the University of Washington, also pursuing a minor in Mathematics. I love developing because I find problem solving very fun, and love solving difficult issues regarding math and programming/algorithms. I'm currently aspiring to be a software developer, and hope to find an internship while I'm still in college
 
 ## Skillset
 *Languages that I am fluent in*:
