@@ -56,5 +56,5 @@ We used the EASy68K simulator to build a reverse assembler that takes binary as 
 Please feel free to reach out with any questions, or if you'd like to collaborate on a project!
 [LinkedIn](https://www.linkedin.com/in/jbfullerton/)
 [mailto](jbfullerton32@gmail.com)
-
 [GitHub](https://github.com/jaydenbf/)
+Discord: Jay#9622
