@@ -5,16 +5,20 @@ Hi, I'm Jayden Fullerton. I am a highly motivated college graduate seeking to ob
 
 ## Skillset
 *PROFICIENT LANGUAGES*
+
 Java, JavaScript, C#, C++
 
 *FAMILIAR LANGUAGES*
+
 Python, SQLITE3, MATLAB, 68000
 Assembly
 
 *SYSTEMS*
+
 Windows, MacOS, iOS, Android
 
 *TOOLS & FRAMEWORKS*
+
 Visual Studio Code, Visual Studio, Eclipse,
 Easy68K, JetBrains Suite, MongoDB,
 Angular, Express, Node.js, dc.js, d3.js,
