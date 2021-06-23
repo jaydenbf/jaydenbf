@@ -4,21 +4,17 @@
 Hi, I'm Jayden Fullerton. I am a highly motivated college graduate seeking to obtain a software engineering position. I would like to grow into a better developer while creating software that has an impact on many people’s lives.
 
 ## Skillset
-*PROFICIENT LANGUAGES*
-
+### PROFICIENT LANGUAGES
 Java, JavaScript, C#, C++
 
-*FAMILIAR LANGUAGES*
-
+### FAMILIAR LANGUAGES
 Python, SQLITE3, MATLAB, 68000
 Assembly
 
-*SYSTEMS*
-
+### SYSTEMS
 Windows, MacOS, iOS, Android
 
-*TOOLS & FRAMEWORKS*
-
+### TOOLS & FRAMEWORKS
 Visual Studio Code, Visual Studio, Eclipse,
 Easy68K, JetBrains Suite, MongoDB,
 Angular, Express, Node.js, dc.js, d3.js,
