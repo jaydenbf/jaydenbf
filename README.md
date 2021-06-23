@@ -1,29 +1,25 @@
 # Jayden Fullerton
 
 ## About Me
-Hi, I'm Jayden Fullerton, a Computer Science and Software Engineering student at the University of Washington, also pursuing a minor in Mathematics. I love developing because I find problem solving very fun, and love solving difficult issues regarding math and programming/algorithms. I'm currently aspiring to be a software developer, and hope to find an internship while I'm still in college.
+Hi, I'm Jayden Fullerton. I am a highly motivated college graduate seeking to obtain a software engineering position. I would like to grow into a better developer while creating software that has an impact on many people’s lives.
 
 ## Skillset
-*Languages that I am fluent in*:
-C++, Java, C#
+*PROFICIENT LANGUAGES*
+Java, JavaScript, C#, C++
 
-*Languages that I have familiarity with using*:
-MATLAB, Python, SQLITE3, 68K Assembly
+*FAMILIAR LANGUAGES*
+Python, SQLITE3, MATLAB, 68000
+Assembly
 
-*Systems that I have extended experience with*:
-Windows 10, Android, iOS
+*SYSTEMS*
+Windows, MacOS, iOS, Android
 
-*Systems that I have familiarity with using*:
-Linux, MacOS
-
-*Development Tools*:
-Visual Studio 2019, Eclipse, Unity, PyCharm, Easy68K
-
-*Project Management Tools*:
-Trello, Google Drive, GitHub
-
-*Other Tools*:
-LaTeX, Microsoft Word
+*TOOLS & FRAMEWORKS*
+Visual Studio Code, Visual Studio, Eclipse,
+Easy68K, JetBrains Suite, MongoDB,
+Angular, Express, Node.js, dc.js, d3.js,
+Unity, LaTeX, Microsoft Word, Trello,
+GitHub, Git, Azure DevOps
 
 ## Projects
 
