@@ -1,27 +1,6 @@
 # Jayden Fullerton
 
-## About Me
-Hi, I'm Jayden Fullerton. I am a highly motivated college graduate seeking to obtain a software engineering position. I would like to grow into a better developer while creating software that has an impact on many people’s lives.
-
-## Skillset
-### PROFICIENT LANGUAGES
-Java, JavaScript, C#, C++
-
-### FAMILIAR LANGUAGES
-Python, SQLITE3, MATLAB, 68000
-Assembly
-
-### SYSTEMS
-Windows, MacOS, iOS, Android
-
-### TOOLS & FRAMEWORKS
-Visual Studio Code, Visual Studio, Eclipse,
-Easy68K, JetBrains Suite, MongoDB,
-Angular, Express, Node.js, dc.js, d3.js,
-Unity, LaTeX, Microsoft Word, Trello,
-GitHub, Git, Azure DevOps
-
-## Projects
+## Project Portfolio
 
 ### Auto-tuner (MATLAB)
 We explored creating a utility in matlab that processes an audio file and corrects the pitch to a desired frequency using MATLAB. This involved using a Short-Term Fourier Transform and other signal processing/computer vision techniques. An in-depth report can be found on the website.
@@ -53,4 +32,4 @@ Please feel free to reach out with any questions, or if you'd like to collaborat
 [LinkedIn](https://www.linkedin.com/in/jbfullerton/)\
 [GitHub](https://github.com/jaydenbf/) (You're here!) \
 Email: [jbfullerton32@gmail.com](mailto:jbfullerton32@gmail.com)\
-Discord: Jay#9622
+Discord: jay9622
