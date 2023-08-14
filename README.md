@@ -1,5 +1,3 @@
-# Jayden Fullerton
-
 ## Project Portfolio
 
 ### Auto-tuner (MATLAB)
